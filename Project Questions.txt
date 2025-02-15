@@ -1,0 +1,28 @@
+
+
+
+video_games.csv
+
+1. Get sample of 5 rows
+2. Display all the columns
+3. Display the dimensions
+4. Dispaly all columns data types
+5. Display Top 10 rows
+6. Bottom 10 rows
+7. Display all Racing Games which have Critic_score >= 95.
+8. Display video games whos user_score>9.
+9. Display all unique user_scores
+10. Display all types of Games
+11. Access row 15 
+12. Display EU_Sales,Global_Sales and Critic_Count of all games using iloc
+13. Change User_Score data type to float and display all columns data types
+14. Which developer has made how much sales in USD gloabally
+15. Remove all null values from User_Score
+16. Plot the histogram chart with x=User_Score and y=Developer
+17. Display all video games.
+18. Update NA_Sales with + 5:  (map with lambda)
+29. Display which Genre has how many games : all_games =  video_games.groupby('Genre').Genre.count()
+20. Create a bar chart for all games.        
+21. Which developer has most games sold:- top 20 developer.
+22. Plot the bar chart for the above top 20 developers.
+
